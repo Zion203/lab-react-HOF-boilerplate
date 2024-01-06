@@ -1,0 +1,21 @@
+span{
+    color: blue;
+  }
+  li{
+    list-style-type: none;
+  }
+  
+
+  
+  h1{
+    text-align: center;
+  }
+
+
+
+  ul{
+    border: 2px solid black;
+    min-width: fit-content;
+    max-width: 30%;
+    margin: auto;
+  }
